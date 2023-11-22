@@ -27,7 +27,7 @@ Speed: {}
 Total: {}
 '''
 
-download_link = "https://www.mediafire.com/file/brvvppywnxhmsdb/Pokemon+Unbound+Official+Patch+2.0+.zip/file"
+download_link = "https://elite-redux.com"
 
 just_stats = '''HP: {}
 Attack: {}
